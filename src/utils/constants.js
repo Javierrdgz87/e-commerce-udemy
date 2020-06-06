@@ -1,0 +1,1 @@
+export const URL_API = 'http://compras2.sistemasfractal.com/dbProducts.json'
